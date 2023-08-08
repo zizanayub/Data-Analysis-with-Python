@@ -1,3 +1,5 @@
+### Procedures:
+
 We start by cleaning our data. Tasks during this section include:
 
 - Drop NaN values from DataFrame
@@ -5,7 +7,7 @@ We start by cleaning our data. Tasks during this section include:
 - Change the type of columns (to_numeric, to_datetime, astype)
 - Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
 
-Questions Answered:
+### Questions Answered:
 
 - What was the best month for sales? How much was earned that month?
 - What city sold the most product?
@@ -15,6 +17,7 @@ Questions Answered:
 - To answer these questions we walk through many different pandas & matplotlib methods. They include:
 
 
+### Methods used
 To answer these questions we walk through many different pandas & matplotlib methods. They include:
 - Concatenating multiple csvs together to create a new DataFrame (pd.concat)
 - Adding columns
